@@ -1,0 +1,2 @@
+name = "demofile"
+print(name)
